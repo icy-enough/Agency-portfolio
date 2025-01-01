@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+canvas {
+    pointer-events: none;
+}
+
+span.growing {
+    background-color: #fd2c2a;
+}
